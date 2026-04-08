@@ -173,4 +173,4 @@ Teams that complete the program receive:
 
 ## Questions?
 
-If you have questions about the program or the application process, [open an issue](../../issues/new?template=question.yml) in this repository.
+If you have questions about the program or the application process, [open an issue](/orbitflare/infra-accelerator/issues/new?template=question.yml) in this repository.
